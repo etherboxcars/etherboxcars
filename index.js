@@ -45,6 +45,7 @@ window.addEventListener('load', function() {
 	      		break
 			case "3":
 		    	console.log('This is the ropsten test network.')	// TODO: set contract address on testnet, set up account
+          		contractAddress = '0x92d7e42bd78cc14f40e5aca605f0b6b7b341c94b';
 		      	break
 		    case "4447":		
 				console.log('using truffle internal testnet')
