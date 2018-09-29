@@ -7,7 +7,7 @@ This is an experimental contract to test:
 
 
 ## Purpose
-this is a test is get community feedback on the method, with an eye to using it for roleplaying 
+this is a test to get community feedback on the method, with an eye to using it for roleplaying 
 and board game style games.
 
 ## How it Works
@@ -17,5 +17,5 @@ based on the block hash and the player address.  Players bet using 'placeBet' an
 their winnings within 255 blocks (approximately one hour) using 'resolveBet'.
 
 ## Contract
-The contract is available at [https://github.com/etherboxcars/BoxCars].
+The contract is available at [ehtherboxcars/BoxCars](https://github.com/etherboxcars/BoxCars).
 
